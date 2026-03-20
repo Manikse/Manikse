@@ -4,13 +4,14 @@ Who am I?
 I am a 17-year-old developer and student at the Slovak University of Technology (STU) in Bratislava, specializing in Automation and Informatization of Processes. I build tools that bridge the gap between complex engineering and clean code. I'm a fan of cyberpunk aesthetics, anime, and exploring the intersections of tech and culture.
 
 What am I currently working on?
-🚀 VestaStack – A profitable SaaS boilerplate designed for rapid deployment
 
-⚙️ Kernel – Deep-diving into low-level systems and kernel development
+ VestaStack – A profitable SaaS boilerplate designed for rapid deployment
 
-🧠 TensorMesh – A custom Python engine for advanced computational tasks
+ Kernel – Deep-diving into low-level systems and kernel development
 
-🎨 DevStruct – A Figma plugin to streamline the designer-to-developer workflow
+ TensorMesh – A custom Python engine for advanced computational tasks
+
+ DevStruct – A Figma plugin to streamline the designer-to-developer workflow
 
 What tools do I use?
 Languages: Python, JavaScript/TypeScript, C++, Rust (exploring)

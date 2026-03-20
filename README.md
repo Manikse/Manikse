@@ -13,7 +13,10 @@ What am I currently working on?
 
  DevStruct – A Figma plugin to streamline the designer-to-developer workflow
 
+ 
+
 What tools do I use?
+
 Languages: Python, JavaScript/TypeScript, C++, Rust (exploring)
 
 Web: React, Next.js, Node.js, Tailwind CSS

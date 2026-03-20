@@ -1,4 +1,5 @@
-Hi there, I'm Pavlo (Manikse) 👋
+#Hi there, I'm Pavlo (Manikse) 👋
+
 Who am I?
 I am a 17-year-old developer and student at the Slovak University of Technology (STU) in Bratislava, specializing in Automation and Informatization of Processes. I build tools that bridge the gap between complex engineering and clean code. I'm a fan of cyberpunk aesthetics, anime, and exploring the intersections of tech and culture.
 
@@ -25,6 +26,4 @@ Telegram: @manikse
 Phone: +421952397424
 Email: maniks5595@gmail.com
 
-![Мій GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manikse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Manikse's Profile](https://github-readme-stats.vercel.app/api?username=Manikse&show_icons=true&theme=cyberpunk&hide=issues,prs,contribs&border_radius=10&count_private=true)
 ![Terminal Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=25C3C0&center=false&vCenter=false&width=435&lines=Initialing+connection...;Decrypting+profile...;Access+granted:;>>+Hello,+user.+<<)

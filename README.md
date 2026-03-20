@@ -24,8 +24,11 @@ Interests: AI Integrations, Automation, and UI/UX Design
 ![Terminal Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=25C3C0&center=false&vCenter=false&width=435&lines=Initialing+connection...;Decrypting+profile...;Access+granted:;>>+Hello,+user.+<<)
 
 How to reach me?
+
 Telegram: @manikse
+
 Phone: +421952397424
+
 Email: maniks5595@gmail.com
 
-![Terminal Typing](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=25C3C0&center=false&vCenter=false&width=435&lines=Initialing+connection...;Decrypting+profile...;Access+granted:;>>+Hello,+user.+<<)
+

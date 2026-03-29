@@ -29,7 +29,7 @@ Interests: AI Integrations, Automation, and UI/UX Design
 
 # How to reach me?
 
-Telegram: @manikse
+Telegram: @maniks10
 
 Phone: +421952397424
 

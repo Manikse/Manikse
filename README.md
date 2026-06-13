@@ -31,7 +31,7 @@ Interests: AI Integrations, Automation, and UI/UX Design
 
 Telegram: @maniks10
 
-Phone: +421952397424
+Phone: +421952397424, +380983659370
 
 Email: maniks5595@gmail.com
 

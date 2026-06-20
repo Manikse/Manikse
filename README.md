@@ -7,7 +7,7 @@ I am a 17-year-old developer and student at the Slovak University of Technology 
 
  VestaStack – A profitable SaaS boilerplate designed for rapid deployment
 
- Kernel – Deep-diving into low-level systems and kernel development
+ ExArchon(kernel) – Deep-diving into low-level systems and kernel development
 
  TensorMesh – A custom Python engine for advanced computational tasks
 

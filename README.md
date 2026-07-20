@@ -1,4 +1,4 @@
-# Hi there, I'm Pavlo (Manikse) 
+# Hi there, I'm Pavlo Blaida (Manikse) 
 
 Who am I?
 I am a 18-year-old developer and student at the Slovak University of Technology (STU) in Bratislava, specializing in Automation and Informatization of Processes. I build tools that bridge the gap between complex engineering and clean code. I'm a fan of cyberpunk aesthetics, anime, and exploring the intersections of tech and culture

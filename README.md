@@ -5,15 +5,10 @@ I am a 18-year-old developer and student at the Slovak University of Technology 
 
 # What am I currently working on?
 
- VestaStack – A profitable SaaS boilerplate designed for rapid deployment
+ ExArchon – Deep-diving into low-level systems and kernel development
 
- ExArchon(kernel) – Deep-diving into low-level systems and kernel development
+ exarchon-pulse – The Autonomous Engineering, Analytics & Bootstrapping Sub-system for EXARCHON
 
- TensorMesh – A custom Python engine for advanced computational tasks
-
- DevStruct – A Figma plugin to streamline the designer-to-developer workflow
-
- 
 
 # What tools do I use?
 

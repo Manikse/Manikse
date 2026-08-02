@@ -1,9 +1,0 @@
-@keyframes eye-glance {
-  0% { transform: translateX(-35px; }
-  50% { transform: translateX(35px; }
-  100% { transform: translateX-35px; }
-}
-
-.eye-pupil {
-  animation: eye-glance 3.5s ease-in-out infinite alternate;
-}

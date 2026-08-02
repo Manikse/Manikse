@@ -9,7 +9,6 @@
 <pre>
 SYSTEM ID  : MANIKSE
 ROLE       : Founder & Lead Architect of ExArchon
-LOCATION   : Bratislava, Slovakia
 STATUS     : Accepting collaboration requests
 </pre>
 

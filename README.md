@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=4000&color=00F0FF&center=true&vCenter=true&width=700&lines=PAVLO+BLAIDA+%7C+EXARCHON+ARCHITECT+%7C+BRATISLAVA" alt="identity" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=4000&pause=4000&color=00F0FF&center=true&vCenter=true&width=700&lines=PAVLO+BLAIDA+%7C+SYSTEM+ARCHITECT" alt="identity" />
 </p>
 
 <p align="center">

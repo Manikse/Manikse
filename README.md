@@ -19,7 +19,7 @@ STATUS     : Accepting collaboration requests
 ## > WHOAMI
 
 <p>
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=12&duration=4000&pause=600&color=00F0FF&center=false&vCenter=true&width=450&lines=Eighteen.+Developer.+STU+Bratislava...;Building+autonomous+systems+that+think...;Not+writing+code.+Architecting+the+future." alt="bio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=12&duration=4000&pause=600&color=00F0FF&center=false&vCenter=true&width=450&lines=Eighteen.+Developer.+ExArchon...;Building+autonomous+systems+that+think...;Not+writing+code.+Architecting+the+future." alt="bio" />
 </p>
 
 I am **Pavlo Blaida**, an 18-year-old developer and student at **STU Bratislava**, specializing in **Automation and Informatization of Processes**. I do not just write scripts -- I design systems that breathe, adapt, and evolve.

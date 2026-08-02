@@ -85,14 +85,8 @@ My work centers on the **ExArchon ecosystem**: autonomous infrastructure that op
 </p>
 
 ## > SYSTEM METRICS
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Manikse&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=C9D1D9&border_radius=4" height="160" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikse&theme=dark&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=00F0FF&sideNums=00F0FF" height="160" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manikse&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_radius=4" height="130" />
 </p>
 
 ## > ACTIVITY STREAM

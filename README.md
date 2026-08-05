@@ -83,17 +83,6 @@ My work centers on the **ExArchon ecosystem**: autonomous infrastructure that op
   <img src="https://img.shields.io/badge/Figma-161B22?style=flat-square&logo=figma&logoColor=00F0FF" />
 </p>
 
-## > SYSTEM METRICS
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Manikse&theme=dark&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=C9D1D9&sideLabels=C9D1D9&currStreakNum=00F0FF&sideNums=00F0FF" height="160" />
-</p>
-
-## > ACTIVITY STREAM
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manikse&theme=react-dark&hide_border=true&bg_color=0D1117&color=00F0FF&line=00F0FF&point=C9D1D9&area=true" width="100%" />
-</p>
-
 ## > NETLINK
 
 <p align="center">

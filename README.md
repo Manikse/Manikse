@@ -22,9 +22,9 @@ STATUS     : Accepting collaboration requests
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=12&duration=4000&pause=600&color=00F0FF&center=false&vCenter=true&width=450&lines=Eighteen.+Developer.+ExArchon...;Building+autonomous+systems+that+think...;Not+writing+code.+Architecting+the+future." alt="bio" />
 </p>
 
-I am **Pavlo Blaida**, an 18-year-old developer and student at **STU Bratislava**, specializing in **Automation and Informatization of Processes**. I do not just write scripts -- I design systems that breathe, adapt, and evolve.
+I am **Pavlo Blaida**, an 18-year-old developer and student at **STU Bratislava**, specializing in **Automation and Informatization of Processes**. I do not just write scripts -- I design systems that breathe, adapt, and evolve
 
-My work centers on the **ExArchon ecosystem**: autonomous infrastructure that operates at the intersection of bare-metal engineering and intelligent automation. Every commit is a step toward building systems that outlive their creator.
+My work centers on the **ExArchon ecosystem**: autonomous infrastructure that operates at the intersection of bare-metal engineering and intelligent automation. Every commit is a step toward building systems that outlive their creator
 
 **What drives me:**
 - Automation that elevates humans above repetitive constraints

@@ -52,7 +52,7 @@ My work centers on the **ExArchon ecosystem**: autonomous infrastructure that op
 - Anime that treats worldbuilding with engineering rigor
 - The quiet space between midnight and dawn, where architectures are born
 
-> "I build tools that bridge the gap between complex engineering and clean code."
+> "I build tools that bridge the gap between complex engineering and clean code"
 
 </td>
 </tr>

@@ -39,8 +39,8 @@ My work centers on the **ExArchon ecosystem**: autonomous infrastructure that op
 ## > PHILOSOPHY
 
 **What I am building:**
-- **ExArchon** -- autonomous systems architecture. Not a product. A philosophy of infrastructure that thinks.
-- **exarchon-pulse** -- the nervous system. Real-time analytics, self-bootstrapping, decision engines.
+- **ExArchon** -- autonomous systems architecture. Not a product. A philosophy of infrastructure that thinks
+- **exarchon-pulse** -- the nervous system. Real-time analytics, self-bootstrapping, decision engines
 
 **What I am exploring:**
 - The Rust ecosystem -- memory safety without garbage collection is a paradigm shift
